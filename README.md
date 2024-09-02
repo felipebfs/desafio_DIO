@@ -38,7 +38,7 @@ Os campos em [ ] devem ser alterados pelas informações que forem inseridas pel
 <h2>Ferramentas utilizadas</h2>
 
 - ``Java``
-- ``IDE VSCODE`
+- ``IDE VSCODE``
 
 <h2>Desenvolvedor</h2>
 
