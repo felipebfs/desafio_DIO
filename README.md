@@ -42,4 +42,4 @@ Os campos em [ ] devem ser alterados pelas informações que forem inseridas pel
 
 <h2>Desenvolvedor</h2>
 
-(https://github.com/felipebfs)
+(https://github.com/felipebfs - https://www.linkedin.com/in/felipe-batista-fraga-de-sousa-8a169822a/)
